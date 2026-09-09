@@ -1,0 +1,8 @@
+namespace CompanyService.Core.BuildingBlocks
+{
+    public interface IBusinessRule
+    {
+        string Message { get; }
+        bool IsBroken();
+    }
+}

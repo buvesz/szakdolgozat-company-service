@@ -1,0 +1,325 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/bjuhasz/personal/gh/Szakdolgozat/szakdolgozat-company-service/CompanyService/src/CompanyService.Api/CompanyService.Api.csproj": {}
+  },
+  "projects": {
+    "/home/bjuhasz/personal/gh/Szakdolgozat/szakdolgozat-company-service/CompanyService/src/CompanyService.Api/CompanyService.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/bjuhasz/personal/gh/Szakdolgozat/szakdolgozat-company-service/CompanyService/src/CompanyService.Api/CompanyService.Api.csproj",
+        "projectName": "CompanyService.Api",
+        "projectPath": "/home/bjuhasz/personal/gh/Szakdolgozat/szakdolgozat-company-service/CompanyService/src/CompanyService.Api/CompanyService.Api.csproj",
+        "packagesPath": "/home/bjuhasz/.nuget/packages/",
+        "outputPath": "/home/bjuhasz/personal/gh/Szakdolgozat/szakdolgozat-company-service/CompanyService/src/CompanyService.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/bjuhasz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/bjuhasz/personal/gh/Szakdolgozat/szakdolgozat-company-service/CompanyService/src/CompanyService.Infrastructure/CompanyService.Infrastructure.csproj": {
+                "projectPath": "/home/bjuhasz/personal/gh/Szakdolgozat/szakdolgozat-company-service/CompanyService/src/CompanyService.Infrastructure/CompanyService.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.110/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/bjuhasz/personal/gh/Szakdolgozat/szakdolgozat-company-service/CompanyService/src/CompanyService.Application/CompanyService.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/bjuhasz/personal/gh/Szakdolgozat/szakdolgozat-company-service/CompanyService/src/CompanyService.Application/CompanyService.Application.csproj",
+        "projectName": "CompanyService.Application",
+        "projectPath": "/home/bjuhasz/personal/gh/Szakdolgozat/szakdolgozat-company-service/CompanyService/src/CompanyService.Application/CompanyService.Application.csproj",
+        "packagesPath": "/home/bjuhasz/.nuget/packages/",
+        "outputPath": "/home/bjuhasz/personal/gh/Szakdolgozat/szakdolgozat-company-service/CompanyService/src/CompanyService.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/bjuhasz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/bjuhasz/personal/gh/Szakdolgozat/szakdolgozat-company-service/CompanyService/src/CompanyService.Core/CompanyService.Core.csproj": {
+                "projectPath": "/home/bjuhasz/personal/gh/Szakdolgozat/szakdolgozat-company-service/CompanyService/src/CompanyService.Core/CompanyService.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Convey": {
+              "target": "Package",
+              "version": "[0.6.522, )"
+            },
+            "Convey.CQRS.Commands": {
+              "target": "Package",
+              "version": "[0.6.522, )"
+            },
+            "Convey.CQRS.Events": {
+              "target": "Package",
+              "version": "[0.6.522, )"
+            },
+            "Convey.CQRS.Queries": {
+              "target": "Package",
+              "version": "[0.6.522, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.110/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/bjuhasz/personal/gh/Szakdolgozat/szakdolgozat-company-service/CompanyService/src/CompanyService.Core/CompanyService.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/bjuhasz/personal/gh/Szakdolgozat/szakdolgozat-company-service/CompanyService/src/CompanyService.Core/CompanyService.Core.csproj",
+        "projectName": "CompanyService.Core",
+        "projectPath": "/home/bjuhasz/personal/gh/Szakdolgozat/szakdolgozat-company-service/CompanyService/src/CompanyService.Core/CompanyService.Core.csproj",
+        "packagesPath": "/home/bjuhasz/.nuget/packages/",
+        "outputPath": "/home/bjuhasz/personal/gh/Szakdolgozat/szakdolgozat-company-service/CompanyService/src/CompanyService.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/bjuhasz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.110/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/bjuhasz/personal/gh/Szakdolgozat/szakdolgozat-company-service/CompanyService/src/CompanyService.Infrastructure/CompanyService.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/bjuhasz/personal/gh/Szakdolgozat/szakdolgozat-company-service/CompanyService/src/CompanyService.Infrastructure/CompanyService.Infrastructure.csproj",
+        "projectName": "CompanyService.Infrastructure",
+        "projectPath": "/home/bjuhasz/personal/gh/Szakdolgozat/szakdolgozat-company-service/CompanyService/src/CompanyService.Infrastructure/CompanyService.Infrastructure.csproj",
+        "packagesPath": "/home/bjuhasz/.nuget/packages/",
+        "outputPath": "/home/bjuhasz/personal/gh/Szakdolgozat/szakdolgozat-company-service/CompanyService/src/CompanyService.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/bjuhasz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/bjuhasz/personal/gh/Szakdolgozat/szakdolgozat-company-service/CompanyService/src/CompanyService.Application/CompanyService.Application.csproj": {
+                "projectPath": "/home/bjuhasz/personal/gh/Szakdolgozat/szakdolgozat-company-service/CompanyService/src/CompanyService.Application/CompanyService.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.110/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
