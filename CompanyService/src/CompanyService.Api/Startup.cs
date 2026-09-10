@@ -3,7 +3,6 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using CompanyService.Application;
-using CompanyService.Infrastructure;
 using Microsoft.AspNetCore.Http;
 
 namespace CompanyService.Api
@@ -19,13 +18,10 @@ namespace CompanyService.Api
         {
             services.AddControllers();
             services.AddApplication();
-            services.AddInfrastructure();
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
-            app.UseInfrastructure();
-
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapGet("/",  context => context.Response.WriteAsync("Hello Mario, the princess is in another castle!"));

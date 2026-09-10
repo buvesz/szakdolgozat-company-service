@@ -1,0 +1,16 @@
+C:\Users\bjuhasz\source\personal\szakdolgozat\szakdolgozat-company-service\CompanyService\src\CompanyService.Application\bin\Debug\net10.0\CompanyService.Application.deps.json
+C:\Users\bjuhasz\source\personal\szakdolgozat\szakdolgozat-company-service\CompanyService\src\CompanyService.Application\bin\Debug\net10.0\CompanyService.Application.dll
+C:\Users\bjuhasz\source\personal\szakdolgozat\szakdolgozat-company-service\CompanyService\src\CompanyService.Application\bin\Debug\net10.0\CompanyService.Application.pdb
+C:\Users\bjuhasz\source\personal\szakdolgozat\szakdolgozat-company-service\CompanyService\src\CompanyService.Application\bin\Debug\net10.0\CompanyService.Core.dll
+C:\Users\bjuhasz\source\personal\szakdolgozat\szakdolgozat-company-service\CompanyService\src\CompanyService.Application\bin\Debug\net10.0\CompanyService.Core.pdb
+C:\Users\bjuhasz\source\personal\szakdolgozat\szakdolgozat-company-service\CompanyService\src\CompanyService.Application\obj\Debug\net10.0\CompanyService.Application.csproj.AssemblyReference.cache
+C:\Users\bjuhasz\source\personal\szakdolgozat\szakdolgozat-company-service\CompanyService\src\CompanyService.Application\obj\Debug\net10.0\CompanyService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bjuhasz\source\personal\szakdolgozat\szakdolgozat-company-service\CompanyService\src\CompanyService.Application\obj\Debug\net10.0\CompanyService.Application.AssemblyInfoInputs.cache
+C:\Users\bjuhasz\source\personal\szakdolgozat\szakdolgozat-company-service\CompanyService\src\CompanyService.Application\obj\Debug\net10.0\CompanyService.Application.AssemblyInfo.cs
+C:\Users\bjuhasz\source\personal\szakdolgozat\szakdolgozat-company-service\CompanyService\src\CompanyService.Application\obj\Debug\net10.0\CompanyService.Application.csproj.CoreCompileInputs.cache
+C:\Users\bjuhasz\source\personal\szakdolgozat\szakdolgozat-company-service\CompanyService\src\CompanyService.Application\obj\Debug\net10.0\CompanyService.Application.sourcelink.json
+C:\Users\bjuhasz\source\personal\szakdolgozat\szakdolgozat-company-service\CompanyService\src\CompanyService.Application\obj\Debug\net10.0\CompanyS.4B2F81A8.Up2Date
+C:\Users\bjuhasz\source\personal\szakdolgozat\szakdolgozat-company-service\CompanyService\src\CompanyService.Application\obj\Debug\net10.0\CompanyService.Application.dll
+C:\Users\bjuhasz\source\personal\szakdolgozat\szakdolgozat-company-service\CompanyService\src\CompanyService.Application\obj\Debug\net10.0\refint\CompanyService.Application.dll
+C:\Users\bjuhasz\source\personal\szakdolgozat\szakdolgozat-company-service\CompanyService\src\CompanyService.Application\obj\Debug\net10.0\CompanyService.Application.pdb
+C:\Users\bjuhasz\source\personal\szakdolgozat\szakdolgozat-company-service\CompanyService\src\CompanyService.Application\obj\Debug\net10.0\ref\CompanyService.Application.dll

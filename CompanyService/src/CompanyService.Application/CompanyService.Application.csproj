@@ -1,7 +1,7 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net10.0</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
@@ -14,6 +14,15 @@
     <PackageReference Include="Convey.CQRS.Events" Version="0.6.522" />
     <PackageReference Include="Convey.CQRS.Queries" Version="0.6.522" />
 
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Commands\Handlers\" />
+    <Folder Include="Commands\WriteModels\" />
+    <Folder Include="Dispatchers\" />
+    <Folder Include="DTOs\" />
+    <Folder Include="Exceptions\" />
+    <Folder Include="Queries\" />
   </ItemGroup>
   
 </Project>

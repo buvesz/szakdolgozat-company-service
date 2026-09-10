@@ -1,0 +1,164 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "CompanyService.Application/1.0.0": {
+        "dependencies": {
+          "CompanyService.Core": "1.0.0",
+          "Convey": "0.6.522",
+          "Convey.CQRS.Commands": "0.6.522",
+          "Convey.CQRS.Events": "0.6.522",
+          "Convey.CQRS.Queries": "0.6.522"
+        },
+        "runtime": {
+          "CompanyService.Application.dll": {}
+        }
+      },
+      "Convey/0.6.522": {
+        "dependencies": {
+          "Figgle": "0.4.0",
+          "Scrutor": "3.3.0"
+        },
+        "runtime": {
+          "lib/net6.0/Convey.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Convey.CQRS.Commands/0.6.522": {
+        "dependencies": {
+          "Convey": "0.6.522"
+        },
+        "runtime": {
+          "lib/net6.0/Convey.CQRS.Commands.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Convey.CQRS.Events/0.6.522": {
+        "dependencies": {
+          "Convey": "0.6.522"
+        },
+        "runtime": {
+          "lib/net6.0/Convey.CQRS.Events.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Convey.CQRS.Queries/0.6.522": {
+        "dependencies": {
+          "Convey": "0.6.522"
+        },
+        "runtime": {
+          "lib/net6.0/Convey.CQRS.Queries.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Figgle/0.4.0": {
+        "runtime": {
+          "lib/netstandard1.3/Figgle.dll": {
+            "assemblyVersion": "0.4.0.0",
+            "fileVersion": "0.4.0.0"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyModel/3.1.6": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyModel.dll": {
+            "assemblyVersion": "3.1.6.0",
+            "fileVersion": "3.100.620.31604"
+          }
+        }
+      },
+      "Scrutor/3.3.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyModel": "3.1.6"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Scrutor.dll": {
+            "assemblyVersion": "3.0.2.0",
+            "fileVersion": "3.0.2.0"
+          }
+        }
+      },
+      "CompanyService.Core/1.0.0": {
+        "runtime": {
+          "CompanyService.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CompanyService.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Convey/0.6.522": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AjwEyS7J58WuMRRzjKCu3C+SWCnZ9n5sVFO2k1KtcIrH74ahADBwAqoZAXABs6MQsk9qw6fq68OsGuk0j6wQAQ==",
+      "path": "convey/0.6.522",
+      "hashPath": "convey.0.6.522.nupkg.sha512"
+    },
+    "Convey.CQRS.Commands/0.6.522": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BcfX7lFj6A72Vv0hpbdhJ2Hc1kB23YBiPlRJ4w29eSlU19isGYzTgTLss7tMGMkLUwkOdjYmlwcElRSWCDhPdA==",
+      "path": "convey.cqrs.commands/0.6.522",
+      "hashPath": "convey.cqrs.commands.0.6.522.nupkg.sha512"
+    },
+    "Convey.CQRS.Events/0.6.522": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3JjhuUwY7L0Szzpz2d7JP41kAKCbXv0t6Xt7gneR6Vcl2MCjFC80GEkkQKIMHENplFFwa3ouCx5ZHsHeZOzjWA==",
+      "path": "convey.cqrs.events/0.6.522",
+      "hashPath": "convey.cqrs.events.0.6.522.nupkg.sha512"
+    },
+    "Convey.CQRS.Queries/0.6.522": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ix8m+KA/E3+b7dwzs/Kec2amo3la6pQm9r8DWgymIq0WdyetgPSmZBZNi/eD/PaGntn9JUFydVnsndYnNwOhJg==",
+      "path": "convey.cqrs.queries/0.6.522",
+      "hashPath": "convey.cqrs.queries.0.6.522.nupkg.sha512"
+    },
+    "Figgle/0.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cHs6CTvKljWhQpAlu8Q5SVf4H3DNNYNFjPMsv9VIm+Pj7Z0O9oq2o4lF02GUVI+aHEVg24BdtmUadIbVoDD9uw==",
+      "path": "figgle/0.4.0",
+      "hashPath": "figgle.0.4.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyModel/3.1.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/UlDKULIVkLQYn1BaHcy/rc91ApDxJb7T75HcCbGdqwvxhnRQRKM2di1E70iCPMF9zsr6f4EgQTotBGxFIfXmw==",
+      "path": "microsoft.extensions.dependencymodel/3.1.6",
+      "hashPath": "microsoft.extensions.dependencymodel.3.1.6.nupkg.sha512"
+    },
+    "Scrutor/3.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BwqCnFzp2/Z+pq17iztxlIkR/ZANyPRR4PdE57WL1w/JW4AM/2imoxBWTL3+G+YXA46ce4s9OUgwWqTXYrtI8A==",
+      "path": "scrutor/3.3.0",
+      "hashPath": "scrutor.3.3.0.nupkg.sha512"
+    },
+    "CompanyService.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

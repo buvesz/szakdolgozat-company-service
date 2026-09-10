@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bjuhasz\\source\\personal\\szakdolgozat\\szakdolgozat-company-service\\CompanyService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0F2CBF-D5E1-44BD-950B-C6EE5B1F9CF0}|tests\\CompanyService.Tests.Integration\\CompanyService.Tests.Integration.csproj|c:\\users\\bjuhasz\\source\\personal\\szakdolgozat\\szakdolgozat-company-service\\companyservice\\tests\\companyservice.tests.integration\\companyservice.tests.integration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7A0F2CBF-D5E1-44BD-950B-C6EE5B1F9CF0}|tests\\CompanyService.Tests.Integration\\CompanyService.Tests.Integration.csproj|solutionrelative:tests\\companyservice.tests.integration\\companyservice.tests.integration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9484D451-F944-4F89-AD89-58BB7E489ED4}|src\\CompanyService.Api\\CompanyService.Api.csproj|c:\\users\\bjuhasz\\source\\personal\\szakdolgozat\\szakdolgozat-company-service\\companyservice\\src\\companyservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9484D451-F944-4F89-AD89-58BB7E489ED4}|src\\CompanyService.Api\\CompanyService.Api.csproj|solutionrelative:src\\companyservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9484D451-F944-4F89-AD89-58BB7E489ED4}|src\\CompanyService.Api\\CompanyService.Api.csproj|c:\\users\\bjuhasz\\source\\personal\\szakdolgozat\\szakdolgozat-company-service\\companyservice\\src\\companyservice.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9484D451-F944-4F89-AD89-58BB7E489ED4}|src\\CompanyService.Api\\CompanyService.Api.csproj|solutionrelative:src\\companyservice.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A57F031-B77F-4506-BD3B-ADB27603B6D9}|src\\CompanyService.Infrastructure\\CompanyService.Infrastructure.csproj|c:\\users\\bjuhasz\\source\\personal\\szakdolgozat\\szakdolgozat-company-service\\companyservice\\src\\companyservice.infrastructure\\companyservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9A57F031-B77F-4506-BD3B-ADB27603B6D9}|src\\CompanyService.Infrastructure\\CompanyService.Infrastructure.csproj|solutionrelative:src\\companyservice.infrastructure\\companyservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA8942C-1704-4EBA-9834-179FA8A75447}|src\\CompanyService.Application\\CompanyService.Application.csproj|c:\\users\\bjuhasz\\source\\personal\\szakdolgozat\\szakdolgozat-company-service\\companyservice\\src\\companyservice.application\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA8942C-1704-4EBA-9834-179FA8A75447}|src\\CompanyService.Application\\CompanyService.Application.csproj|solutionrelative:src\\companyservice.application\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9484D451-F944-4F89-AD89-58BB7E489ED4}|src\\CompanyService.Api\\CompanyService.Api.csproj|c:\\users\\bjuhasz\\source\\personal\\szakdolgozat\\szakdolgozat-company-service\\companyservice\\src\\companyservice.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9484D451-F944-4F89-AD89-58BB7E489ED4}|src\\CompanyService.Api\\CompanyService.Api.csproj|solutionrelative:src\\companyservice.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9484D451-F944-4F89-AD89-58BB7E489ED4}|src\\CompanyService.Api\\CompanyService.Api.csproj|c:\\users\\bjuhasz\\source\\personal\\szakdolgozat\\szakdolgozat-company-service\\companyservice\\src\\companyservice.api\\companyservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9484D451-F944-4F89-AD89-58BB7E489ED4}|src\\CompanyService.Api\\CompanyService.Api.csproj|solutionrelative:src\\companyservice.api\\companyservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA8942C-1704-4EBA-9834-179FA8A75447}|src\\CompanyService.Application\\CompanyService.Application.csproj|c:\\users\\bjuhasz\\source\\personal\\szakdolgozat\\szakdolgozat-company-service\\companyservice\\src\\companyservice.application\\companyservice.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DEA8942C-1704-4EBA-9834-179FA8A75447}|src\\CompanyService.Application\\CompanyService.Application.csproj|solutionrelative:src\\companyservice.application\\companyservice.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEFE24D-78AE-4C47-A87D-E8FE344B11E1}|src\\CompanyService.Core\\CompanyService.Core.csproj|c:\\users\\bjuhasz\\source\\personal\\szakdolgozat\\szakdolgozat-company-service\\companyservice\\src\\companyservice.core\\companyservice.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CAEFE24D-78AE-4C47-A87D-E8FE344B11E1}|src\\CompanyService.Core\\CompanyService.Core.csproj|solutionrelative:src\\companyservice.core\\companyservice.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5270BB15-D3DF-44D6-B8E8-28DC881EC1B6}|tests\\CompanyService.Tests.Unit\\CompanyService.Tests.Unit.csproj|c:\\users\\bjuhasz\\source\\personal\\szakdolgozat\\szakdolgozat-company-service\\companyservice\\tests\\companyservice.tests.unit\\companyservice.tests.unit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5270BB15-D3DF-44D6-B8E8-28DC881EC1B6}|tests\\CompanyService.Tests.Unit\\CompanyService.Tests.Unit.csproj|solutionrelative:tests\\companyservice.tests.unit\\companyservice.tests.unit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4fc5ff1-28ef-4b04-ad02-6b298310ccc7}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\bjuhasz\\source\\personal\\szakdolgozat\\szakdolgozat-company-service\\CompanyService\\src\\CompanyService.Application\\Extensions.cs",
+              "RelativeDocumentMoniker": "src\\CompanyService.Application\\Extensions.cs",
+              "ToolTip": "C:\\Users\\bjuhasz\\source\\personal\\szakdolgozat\\szakdolgozat-company-service\\CompanyService\\src\\CompanyService.Application\\Extensions.cs",
+              "RelativeToolTip": "src\\CompanyService.Application\\Extensions.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T14:04:03.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\bjuhasz\\source\\personal\\szakdolgozat\\szakdolgozat-company-service\\CompanyService\\src\\CompanyService.Api\\Startup.cs",
+              "RelativeDocumentMoniker": "src\\CompanyService.Api\\Startup.cs",
+              "ToolTip": "C:\\Users\\bjuhasz\\source\\personal\\szakdolgozat\\szakdolgozat-company-service\\CompanyService\\src\\CompanyService.Api\\Startup.cs",
+              "RelativeToolTip": "src\\CompanyService.Api\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T14:00:09.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bjuhasz\\source\\personal\\szakdolgozat\\szakdolgozat-company-service\\CompanyService\\src\\CompanyService.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\CompanyService.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\bjuhasz\\source\\personal\\szakdolgozat\\szakdolgozat-company-service\\CompanyService\\src\\CompanyService.Api\\Program.cs",
+              "RelativeToolTip": "src\\CompanyService.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T14:00:05.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\bjuhasz\\source\\personal\\szakdolgozat\\szakdolgozat-company-service\\CompanyService\\src\\CompanyService.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\CompanyService.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\bjuhasz\\source\\personal\\szakdolgozat\\szakdolgozat-company-service\\CompanyService\\src\\CompanyService.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\CompanyService.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-10T13:59:37.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompanyService.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\bjuhasz\\source\\personal\\szakdolgozat\\szakdolgozat-company-service\\CompanyService\\src\\CompanyService.Infrastructure\\CompanyService.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\CompanyService.Infrastructure\\CompanyService.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\bjuhasz\\source\\personal\\szakdolgozat\\szakdolgozat-company-service\\CompanyService\\src\\CompanyService.Infrastructure\\CompanyService.Infrastructure.csproj",
+              "RelativeToolTip": "src\\CompanyService.Infrastructure\\CompanyService.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-09T20:39:20.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompanyService.Tests.Integration.csproj",
+              "DocumentMoniker": "C:\\Users\\bjuhasz\\source\\personal\\szakdolgozat\\szakdolgozat-company-service\\CompanyService\\tests\\CompanyService.Tests.Integration\\CompanyService.Tests.Integration.csproj",
+              "RelativeDocumentMoniker": "tests\\CompanyService.Tests.Integration\\CompanyService.Tests.Integration.csproj",
+              "ToolTip": "C:\\Users\\bjuhasz\\source\\personal\\szakdolgozat\\szakdolgozat-company-service\\CompanyService\\tests\\CompanyService.Tests.Integration\\CompanyService.Tests.Integration.csproj",
+              "RelativeToolTip": "tests\\CompanyService.Tests.Integration\\CompanyService.Tests.Integration.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-09T20:39:11.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CompanyService.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\bjuhasz\\source\\personal\\szakdolgozat\\szakdolgozat-company-service\\CompanyService\\src\\CompanyService.Application\\CompanyService.Application.csproj",
+              "RelativeDocumentMoniker": "src\\CompanyService.Application\\CompanyService.Application.csproj",
+              "ToolTip": "C:\\Users\\bjuhasz\\source\\personal\\szakdolgozat\\szakdolgozat-company-service\\CompanyService\\src\\CompanyService.Application\\CompanyService.Application.csproj",
+              "RelativeToolTip": "src\\CompanyService.Application\\CompanyService.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-09T20:39:32.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CompanyService.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\bjuhasz\\source\\personal\\szakdolgozat\\szakdolgozat-company-service\\CompanyService\\src\\CompanyService.Api\\CompanyService.Api.csproj",
+              "RelativeDocumentMoniker": "src\\CompanyService.Api\\CompanyService.Api.csproj",
+              "ToolTip": "C:\\Users\\bjuhasz\\source\\personal\\szakdolgozat\\szakdolgozat-company-service\\CompanyService\\src\\CompanyService.Api\\CompanyService.Api.csproj",
+              "RelativeToolTip": "src\\CompanyService.Api\\CompanyService.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-09T20:39:39.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CompanyService.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\bjuhasz\\source\\personal\\szakdolgozat\\szakdolgozat-company-service\\CompanyService\\src\\CompanyService.Core\\CompanyService.Core.csproj",
+              "RelativeDocumentMoniker": "src\\CompanyService.Core\\CompanyService.Core.csproj",
+              "ToolTip": "C:\\Users\\bjuhasz\\source\\personal\\szakdolgozat\\szakdolgozat-company-service\\CompanyService\\src\\CompanyService.Core\\CompanyService.Core.csproj",
+              "RelativeToolTip": "src\\CompanyService.Core\\CompanyService.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-09T20:39:26.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CompanyService.Tests.Unit.csproj",
+              "DocumentMoniker": "C:\\Users\\bjuhasz\\source\\personal\\szakdolgozat\\szakdolgozat-company-service\\CompanyService\\tests\\CompanyService.Tests.Unit\\CompanyService.Tests.Unit.csproj",
+              "RelativeDocumentMoniker": "tests\\CompanyService.Tests.Unit\\CompanyService.Tests.Unit.csproj",
+              "ToolTip": "C:\\Users\\bjuhasz\\source\\personal\\szakdolgozat\\szakdolgozat-company-service\\CompanyService\\tests\\CompanyService.Tests.Unit\\CompanyService.Tests.Unit.csproj",
+              "RelativeToolTip": "tests\\CompanyService.Tests.Unit\\CompanyService.Tests.Unit.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-09T20:39:04.596Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

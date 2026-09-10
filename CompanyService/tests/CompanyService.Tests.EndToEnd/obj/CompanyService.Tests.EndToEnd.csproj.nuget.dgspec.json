@@ -1,26 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "/home/bjuhasz/personal/gh/Szakdolgozat/szakdolgozat-company-service/CompanyService/tests/CompanyService.Tests.EndToEnd/CompanyService.Tests.EndToEnd.csproj": {}
+    "C:\\Users\\bjuhasz\\source\\personal\\szakdolgozat\\szakdolgozat-company-service\\CompanyService\\tests\\CompanyService.Tests.EndToEnd\\CompanyService.Tests.EndToEnd.csproj": {}
   },
   "projects": {
-    "/home/bjuhasz/personal/gh/Szakdolgozat/szakdolgozat-company-service/CompanyService/tests/CompanyService.Tests.EndToEnd/CompanyService.Tests.EndToEnd.csproj": {
+    "C:\\Users\\bjuhasz\\source\\personal\\szakdolgozat\\szakdolgozat-company-service\\CompanyService\\tests\\CompanyService.Tests.EndToEnd\\CompanyService.Tests.EndToEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/bjuhasz/personal/gh/Szakdolgozat/szakdolgozat-company-service/CompanyService/tests/CompanyService.Tests.EndToEnd/CompanyService.Tests.EndToEnd.csproj",
+        "projectUniqueName": "C:\\Users\\bjuhasz\\source\\personal\\szakdolgozat\\szakdolgozat-company-service\\CompanyService\\tests\\CompanyService.Tests.EndToEnd\\CompanyService.Tests.EndToEnd.csproj",
         "projectName": "CompanyService.Tests.EndToEnd",
-        "projectPath": "/home/bjuhasz/personal/gh/Szakdolgozat/szakdolgozat-company-service/CompanyService/tests/CompanyService.Tests.EndToEnd/CompanyService.Tests.EndToEnd.csproj",
-        "packagesPath": "/home/bjuhasz/.nuget/packages/",
-        "outputPath": "/home/bjuhasz/personal/gh/Szakdolgozat/szakdolgozat-company-service/CompanyService/tests/CompanyService.Tests.EndToEnd/obj/",
+        "projectPath": "C:\\Users\\bjuhasz\\source\\personal\\szakdolgozat\\szakdolgozat-company-service\\CompanyService\\tests\\CompanyService.Tests.EndToEnd\\CompanyService.Tests.EndToEnd.csproj",
+        "packagesPath": "C:\\Users\\bjuhasz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bjuhasz\\source\\personal\\szakdolgozat\\szakdolgozat-company-service\\CompanyService\\tests\\CompanyService.Tests.EndToEnd\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/bjuhasz/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\bjuhasz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/lib/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\localnuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,7 +46,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net6.0": {
@@ -93,6 +100,10 @@
             {
               "name": "Microsoft.NETCore.App.Ref",
               "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
             }
           ],
           "frameworkReferences": {
@@ -100,7 +111,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.110/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,9 +1,0 @@
-using System;
-using System.Collections.Generic;
-using CompanyService.Application.Commands.WriteModels;
-using Convey.CQRS.Commands;
-
-namespace CompanyService.Application.Commands
-{
-    public record UpdateOrder(Guid Id, Guid BuyerId, AddressWriteModel ShippingAddress, IEnumerable<OrderItemWriteModel> Items, string Status) : ICommand;
-}
